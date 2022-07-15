@@ -1,5 +1,8 @@
 package com.devsuperior.dsmeta.config;
+<<<<<<< HEAD
 
+=======
+>>>>>>> c48e2f9eed09aa0a4e2994317d6e0e9bf249ed67
 import java.util.Arrays;
 
 import org.springframework.context.annotation.Bean;
@@ -38,3 +41,7 @@ public class SecurityConfig {
 }
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c48e2f9eed09aa0a4e2994317d6e0e9bf249ed67
